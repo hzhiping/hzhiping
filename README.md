@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hzhiping
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Docker, Spring, SpringCloud, Netty
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in java
+- 🌱 I’m currently learning docker, spring, springcloud, netty
+- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me? 23955637@qq.com
 
 <!---
